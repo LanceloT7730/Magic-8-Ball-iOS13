@@ -11,6 +11,3 @@ We’re going to make a Magic 8 Ball app. You can ask the app to make all your h
 
 
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-
